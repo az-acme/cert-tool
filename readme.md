@@ -6,5 +6,4 @@ az-acme is an open soure tool to manage TLS certificates in Azure from ACME comp
 - Externalise configuration to support flexible execution scenarios and GitOps flows
 - Utilise Azure Key Vault to store certificates and sensitive state / configuration.
 - Integrate with Azure DNS for ACME challenges
-- Simple to integrate with tool chains such as Azure DevOps and GitHub Actions
 
